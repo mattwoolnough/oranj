@@ -1,0 +1,7 @@
+{
+  // Cloudflare Pages project configuration
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "oranj",
+  "compatibility_date": "2026-02-22",
+  "pages_build_output_dir": "."
+}

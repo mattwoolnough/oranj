@@ -1,0 +1,13 @@
+{
+  "name": "oranj-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static Pages site for oranj.com.au",
+  "scripts": {
+    "deploy": "wrangler pages deploy . --project-name=oranj",
+    "deploy:pages": "wrangler pages deploy . --project-name=oranj"
+  },
+  "devDependencies": {
+    "wrangler": "4.67.0"
+  }
+}
